@@ -1,0 +1,15 @@
+# xv6 build outputs
+*.o
+*.d
+*.asm
+*.sym
+initial-xv6/src/fs.img
+initial-xv6/src/kernel/kernel
+initial-xv6/src/mkfs/mkfs
+initial-xv6/src/user/_*
+initial-xv6/src/user/initcode
+initial-xv6/src/user/initcode.out
+.gdbinit
+
+# editor
+.vscode/
